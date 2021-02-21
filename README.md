@@ -1,0 +1,2 @@
+# rbb_crypto_algo_trader
+For trading cryptocurrencies algorithmically
